@@ -2,7 +2,7 @@ using System;
 
 namespace ProgrammingTest
 {
-    internal class B4344
+    internal class B4344_B1
     {
         static void Main(string[] args)
         {
