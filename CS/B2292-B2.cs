@@ -1,6 +1,6 @@
 using System;
 
-namespace BaekjoonSolution
+namespace ProgrammingTest
 {
     // 벌집
     internal class B2292_B2
