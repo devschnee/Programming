@@ -7,7 +7,7 @@ class B10845_S4
     int a = int.Parse(Console.ReadLine());
     StringBuilder sb = new StringBuilder();
     Queue<int> q = new Queue<int>();
-    int value = 0;
+    int value = -1;
     for (int i = 0; i < a; i++)
     {
       string[] s = Console.ReadLine().Split();
