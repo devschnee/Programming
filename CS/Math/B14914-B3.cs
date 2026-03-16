@@ -1,6 +1,7 @@
 using System;
 using System.Text;
 // 사과와 바나나 나눠주기
+// 브루트 포스
 class B14914_B3
 {
   static void Main(string[] args)
